@@ -1,5 +1,5 @@
 # my-github-practice
 This repository is for practising GitHub flow.
 ## Contributors 
-* **Abdullahi Yusuf** ([Abdullahi Yusuf](abdalex100@yahoo.com))
-* **Mubaraq** ([Mubaraq](github.com/mubarraqqq))
+* **Abdullahi Yusuf** ([yabaganz](abdalex100@yahoo.com))
+* **Mubaraq Onipede** ([Mubaraq](github.com/mubarraqqq))
